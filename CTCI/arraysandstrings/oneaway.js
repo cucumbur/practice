@@ -36,3 +36,4 @@ console.log(oneAway("pale", "ple"));
 console.log(oneAway("pale", "pales"));
 console.log(oneAway("pale", "bale"));
 console.log(oneAway("pale", "bake"));
+console.log(oneAway("pale", "palk"));
